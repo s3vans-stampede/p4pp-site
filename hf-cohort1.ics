@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stampede Sports//Parenting for Peak Performance Hockey Foundation
+ s//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hockey Foundations cohort 1
+X-WR-TIMEZONE:Africa/Johannesburg
+BEGIN:VTIMEZONE
+TZID:Africa/Johannesburg
+X-LIC-LOCATION:Africa/Johannesburg
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+TZNAME:SAST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hf-c1-s1-20261021@parenting4peakperformance.com
+DTSTAMP:20260927T080000Z
+DTSTART;TZID=Africa/Johannesburg:20261021T193000
+DTEND;TZID=Africa/Johannesburg:20261021T203000
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:Hockey Foundations\, Session 1: Kick-off: the gap and the five elem
+ ents
+LOCATION:Zoom (link in your course home)
+DESCRIPTION:Parenting for Peak Performance: Hockey Foundations\, live sessi
+ on 1 of 6 with Steve Evans OLY.\nJoin on Zoom. The link is in your course 
+ home at https://stampedesports.xperiencify.io\nCan't make it? The replay g
+ oes up in your course home the same night.
+URL:https://stampedesports.xperiencify.io
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hockey Foundations Session 1 starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hf-c1-s2-20261028@parenting4peakperformance.com
+DTSTAMP:20260927T080000Z
+DTSTART;TZID=Africa/Johannesburg:20261028T193000
+DTEND;TZID=Africa/Johannesburg:20261028T203000
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:Hockey Foundations\, Session 2: Technical
+LOCATION:Zoom (link in your course home)
+DESCRIPTION:Parenting for Peak Performance: Hockey Foundations\, live sessi
+ on 2 of 6 with Steve Evans OLY.\nJoin on Zoom. The link is in your course 
+ home at https://stampedesports.xperiencify.io\nCan't make it? The replay g
+ oes up in your course home the same night.
+URL:https://stampedesports.xperiencify.io
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hockey Foundations Session 2 starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hf-c1-s3-20261104@parenting4peakperformance.com
+DTSTAMP:20260927T080000Z
+DTSTART;TZID=Africa/Johannesburg:20261104T193000
+DTEND;TZID=Africa/Johannesburg:20261104T203000
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:Hockey Foundations\, Session 3: Tactical
+LOCATION:Zoom (link in your course home)
+DESCRIPTION:Parenting for Peak Performance: Hockey Foundations\, live sessi
+ on 3 of 6 with Steve Evans OLY.\nJoin on Zoom. The link is in your course 
+ home at https://stampedesports.xperiencify.io\nCan't make it? The replay g
+ oes up in your course home the same night.
+URL:https://stampedesports.xperiencify.io
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hockey Foundations Session 3 starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hf-c1-s4-20261111@parenting4peakperformance.com
+DTSTAMP:20260927T080000Z
+DTSTART;TZID=Africa/Johannesburg:20261111T193000
+DTEND;TZID=Africa/Johannesburg:20261111T203000
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:Hockey Foundations\, Session 4: Physical
+LOCATION:Zoom (link in your course home)
+DESCRIPTION:Parenting for Peak Performance: Hockey Foundations\, live sessi
+ on 4 of 6 with Steve Evans OLY.\nJoin on Zoom. The link is in your course 
+ home at https://stampedesports.xperiencify.io\nCan't make it? The replay g
+ oes up in your course home the same night.
+URL:https://stampedesports.xperiencify.io
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hockey Foundations Session 4 starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hf-c1-s5-20261118@parenting4peakperformance.com
+DTSTAMP:20260927T080000Z
+DTSTART;TZID=Africa/Johannesburg:20261118T193000
+DTEND;TZID=Africa/Johannesburg:20261118T203000
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:Hockey Foundations\, Session 5: Psychological
+LOCATION:Zoom (link in your course home)
+DESCRIPTION:Parenting for Peak Performance: Hockey Foundations\, live sessi
+ on 5 of 6 with Steve Evans OLY.\nJoin on Zoom. The link is in your course 
+ home at https://stampedesports.xperiencify.io\nCan't make it? The replay g
+ oes up in your course home the same night.
+URL:https://stampedesports.xperiencify.io
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hockey Foundations Session 5 starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hf-c1-s6-20261125@parenting4peakperformance.com
+DTSTAMP:20260927T080000Z
+DTSTART;TZID=Africa/Johannesburg:20261125T193000
+DTEND;TZID=Africa/Johannesburg:20261125T203000
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:Hockey Foundations\, Session 6: Peripherals and closing the Bluepri
+ nt
+LOCATION:Zoom (link in your course home)
+DESCRIPTION:Parenting for Peak Performance: Hockey Foundations\, live sessi
+ on 6 of 6 with Steve Evans OLY.\nJoin on Zoom. The link is in your course 
+ home at https://stampedesports.xperiencify.io\nCan't make it? The replay g
+ oes up in your course home the same night.
+URL:https://stampedesports.xperiencify.io
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hockey Foundations Session 6 starts in 30 minutes
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
